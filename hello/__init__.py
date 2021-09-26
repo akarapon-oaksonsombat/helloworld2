@@ -3,4 +3,4 @@
 
 def hello(who):
     """function that greats"""
-    return "helly " + who
+    return "hello " + who
